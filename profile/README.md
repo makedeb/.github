@@ -13,7 +13,7 @@ Besides makedeb itself, we also have some other noteworthy products, including:
 
 - The [MPR](https://mpr.makedeb.org), a package repository for programs to use with makedeb.
 - The [Prebuilt-MPR](https://docs.makedeb.org/prebuilt-mpr), a prebuilt repository for packages from the MPR.
-- [Mist](https://github.com/makedeb/mist), the official command-line interface for interacting with the MPR.
+- [Mari](https://github.com/makedeb/mari), the official command-line interface for interacting with the MPR.
 
 ### Contributing
 We're getting better every day, and there's always some stuff that needs to be worked on. If you're a new contributor looking to help with the coding side of things, consider looking at the [documentation](https://docs.makedeb.org/support/ways-to-support-makedeb/#contribute-code) for ways you can contribute. If you'd like to help out in other ways, you can help others in the [support rooms](https://docs.makedeb.org/support/obtaining-support/), [package for the MPR](https://docs.makedeb.org/using-the-mpr/uploading-packages/), or [help with translations](https://docs.makedeb.org/support/ways-to-support-makedeb/#translating).

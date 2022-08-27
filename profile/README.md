@@ -1,6 +1,6 @@
 <div align="center">
-  <img alt="makedeb logo" src="https://github.com/makedeb/brand/raw/main/extra/matrix-discord.png" width="100">
-  <br>
+  <img alt="makedeb logo" src="https://github.com/makedeb/brand/raw/main/assets/transparent.svg" width="80">
+  <br><br>
   <a href="https://discord.gg/R3MhyghtMD"><img alt="Discord" src="https://img.shields.io/discord/938574663565574185?color=5865F2&logo=discord&logoColor=white&style=for-the-badge"></a>
   <a href="https://matrix.to/#/#makedeb:hunterwittenborn.com"><img alt="Matrix" src="https://img.shields.io/matrix/makedeb:hunterwittenborn.com?color=black&logo=matrix&server_fqdn=matrix.hunterwittenborn.com&style=for-the-badge"></a>
   <a href="https://patreon.com/makedeb"><img alt="Donate" src="https://img.shields.io/badge/PATREON-DONATE-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>

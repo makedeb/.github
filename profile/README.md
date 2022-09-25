@@ -3,7 +3,10 @@
   <br><br>
   <a href="https://discord.gg/R3MhyghtMD"><img alt="Discord" src="https://img.shields.io/discord/938574663565574185?color=5865F2&logo=discord&logoColor=white&style=for-the-badge"></a>
   <a href="https://matrix.to/#/#makedeb:hunterwittenborn.com"><img alt="Matrix" src="https://img.shields.io/matrix/makedeb:hunterwittenborn.com?color=black&logo=matrix&server_fqdn=matrix.hunterwittenborn.com&style=for-the-badge"></a>
+  <a href="https://github.com/sponsors/makedeb"><img alt="Donate" src="https://img.shields.io/badge/SPONSORS-DONATE-24292F?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://patreon.com/makedeb"><img alt="Donate" src="https://img.shields.io/badge/PATREON-DONATE-FF424D?style=for-the-badge&logo=patreon&logoColor=white"></a>
+
+
 </div>
 <h2>makedeb</h2>
 

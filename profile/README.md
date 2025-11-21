@@ -1,3 +1,6 @@
+> [!WARNING]
+> makedeb is currently unmaintained: https://hunterwittenborn.com/blog/stepping-back-from-open-source/
+
 <div align="center">
   <img alt="makedeb logo" src="https://github.com/makedeb/brand/raw/main/assets/transparent.svg" width="80">
   <br><br>
